@@ -1,0 +1,11 @@
+{
+"webAPI_config":{
+  "webAPI_port": "18800"
+  },
+"redis_config":{
+"nodes": [
+  ":7000", ":7001", ":7002", ":7003", ":7004", ":7005"
+    ],
+    "password":"password"
+  }
+}
